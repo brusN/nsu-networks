@@ -1,0 +1,12 @@
+/.idea
+/uploads
+/out
+
+# Client module
+/Client/target
+
+# Server module
+/Server/target
+
+# Shared module
+/Shared/target
